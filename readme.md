@@ -8,6 +8,8 @@ Examples for [Rust](https://www.rust-lang.org/).
 
 ### Command Line
 
+Run:
+
 ```zsh
 cargo run
 ```
