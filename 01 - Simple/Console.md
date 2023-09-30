@@ -5,7 +5,15 @@
 To create a new console app, run the following command:
 
 ```zsh
-cargo new grrs
+cargo new my-app
+```
+
+## Run
+
+To run, go into the my-app folder:
+
+```zsh
+cargo run
 ```
 
 ## Copyright
