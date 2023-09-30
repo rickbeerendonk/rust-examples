@@ -8,7 +8,9 @@ Examples for [Rust](https://www.rust-lang.org/).
 
 ### Command Line
 
-...
+```zsh
+cargo run
+```
 
 ### Visual Studio Code
 
