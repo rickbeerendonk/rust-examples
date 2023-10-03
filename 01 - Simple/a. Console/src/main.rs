@@ -2,5 +2,5 @@
 // Copyright © 2023 Rick Beerendonk
 
 fn main() {
-    println!("Hello Rust!");
+  println!("Hello Rust!");
 }
