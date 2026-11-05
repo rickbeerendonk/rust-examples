@@ -8,17 +8,23 @@ Examples for [Rust](https://www.rust-lang.org/).
 
 ### Command Line
 
-Run:
+Each example is an independent Cargo project. From the directory containing its `Cargo.toml`, run:
 
 ```zsh
 cargo run
 ```
 
+Run the unit-test example with:
+
+```zsh
+cargo test
+```
+
 ### Visual Studio Code
 
 - Open the Rust examples in Visual Studio Code
-- In VSCode, open a rust file (where `Cargo.toml` is located or in the `src` folder)
-- Use the build command. As a result the rust project will be build and executed
+- Open an example folder containing `Cargo.toml`
+- Use the build command to build and run the selected Rust project
 
 ## Docs
 
